@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _This is first webpage I created
+#### _This is first webpage I created_
 #### By _**Garland and Ben**_
 
 ## Description
@@ -9,9 +9,9 @@ _This is my first website that includes some things I will be learning at Epicod
 
 ## Setup/Installation Requirements
 
-*_ Clone repository to desktop.
-*_ Verify the location of repository and move to desktop if necessary.
-*_ Open my-first-website.html using a web browser.
+* _Clone repository to desktop._
+* _Verify the location of repository and move to desktop if necessary._
+* _Open my-first-website.html using a web browser._
 
 ## Known Bugs
 
